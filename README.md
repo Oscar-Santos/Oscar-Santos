@@ -37,6 +37,8 @@
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
+![Oscar’ github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Santos&show_icons=true&theme=tokyonight)
+
 ## Likes To
 - play the guitar 
 - hiking
