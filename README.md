@@ -42,7 +42,7 @@
 ## Likes To
 - play the guitar 
 - hiking
-- pkay chess
+- play chess
 - skiing
 - go places
 - make stuff
