@@ -6,8 +6,8 @@
 ## I am...
 - A Software Engineer with experience in customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
-- Enrolled in Turing School of Software & Design with a projected completion date in __July of 2022__
-- Currently in pursuit of a position that supports my ongoing growth.
+- Graduate of Turing School of Software & Design of the Program of Back-End Engineer in __September of 2022__
+- Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
 ## Currently Learning
 - Consuming, Building & Exposing APIs
