@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="500"/>
 </div>
 
-<div id="header" align="center">
-  <img src="2wCEAAkGBw8OEBUQEBAVFRUXFhUWGBYXGRUVGBYYFRUXGBUXFRoYHSggGBslHxUWIjEhJSkrLi4uFyAzODMtOCgtLisBCgoKDg0OGhAQGi0lHyUtLS0rKy0rKy0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLf" width="500"/>
-</div>
 
 # Hi, I'm Oscar !
 ## I am...
