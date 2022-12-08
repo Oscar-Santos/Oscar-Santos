@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="500"/>
 </div>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 # Hi, I'm Oscar !
 ## I am...
