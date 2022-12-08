@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="500"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwislfCTn-r7AhWBxVMKHTP1BnsQMygOegUIARChAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwislfCTn-r7AhWBxVMKHTP1BnsQMygOegUIARChAg" width="500"/>
-</div>
 
 # Hi, I'm Oscar !
 ## I am...
