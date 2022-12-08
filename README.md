@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="500"/>
 </div>
 
-<p align="center">
-  <img alt="Welcome Gif" src="https://user-images.githubusercontent.com/91357724/156508954-69f70e80-b9e3-44ab-acd7-ab1c65591b94.gif" />
-</p>
-
 # Hi, I'm Oscar !
 ## I am...
 - A Software Engineer with experience in customer service and sales.
