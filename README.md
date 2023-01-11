@@ -6,7 +6,7 @@
 
 # Hi, I'm Oscar !
 ## I am...
-- A Software Engineer with experience in customer service and sales.
+- A Software Developer with experience in customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Graduate of Turing School of Software & Design of the Program of Back-End Engineer in __September of 2022__
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
