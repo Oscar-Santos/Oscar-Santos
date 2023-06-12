@@ -15,7 +15,7 @@
 - Consuming, Building & Exposing APIs
 - Continuous Integration / Continuous Deployment
 - Python 
-- HTML and CSS
+- Javascript, HTML and CSS
 - Learning how to implement OpenAI / CHATgpt in a JAVASCRIPT and Ruby on Rails Application.
 
 ## Best At
