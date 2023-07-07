@@ -12,10 +12,10 @@
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
 ## Currently Learning
-- Consuming, Building & Exposing APIs
-- Continuous Integration / Continuous Deployment
-- Python 
-- JavaScript, React, Node.js, Express, HTML and CSS
+- Consuming, Building & Exposing APIs.
+- Continuous Integration / Continuous Deployment.
+- Python.
+- JavaScript, React, Node.js, Express, HTML and CSS.
 - Learning how to implement OpenAI / CHATgpt in a JAVASCRIPT and Ruby on Rails Application.
 
 ## Best At
