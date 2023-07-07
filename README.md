@@ -8,8 +8,7 @@
 ## I am...
 - A Software Developer with a background in customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
-- Graduate of the Turing School of Software and Design (Back-End program)in __September of 2022__, and Per Scholas Programming School (Front-End program) in __July of 2023__.
-- Graduate of the Turing School of Software and Design's Back-End program in September 2022, and the Per Scholas Programming School's Front-End program in July 2023.
+- Graduate of the Turing School of Software and Design's Back-End program in __September of 2022__, and the Per Scholas Programming School's Front-End program in __July of 2023__.
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
 ## Currently Learning
