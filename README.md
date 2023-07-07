@@ -21,7 +21,6 @@
 ## Best At
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
 ![Rails](https://user-images.githubusercontent.com/64919819/113647936-ffe5e400-9648-11eb-88b7-a85a0a20ca92.png)
-<img src="https://img.shields.io/badge/JavaScript-ES2021-yellow?logo=javascript" />
 ![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
 ![SQL](https://user-images.githubusercontent.com/64919819/113647954-0aa07900-9649-11eb-94fa-53a435261ecf.png)
 ![Postgres](https://user-images.githubusercontent.com/64919819/113648154-63701180-9649-11eb-9424-b3c6d1eeae4f.png)
