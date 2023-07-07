@@ -36,7 +36,7 @@
 ![CircleCI](https://user-images.githubusercontent.com/64919819/113648644-29ebd600-964a-11eb-91a3-1e50b7c415aa.png)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
 -->
-## Preferred Practices, Processes & Principles
+## Preferred Practices, Processes & Principles...🟣
 ![OOP](https://user-images.githubusercontent.com/64919819/113648808-77684300-964a-11eb-8575-05aeaa946a6f.png)
 ![TDD](https://user-images.githubusercontent.com/64919819/113648827-7f27e780-964a-11eb-8f9e-dfdc2ed077c5.png)
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
@@ -44,7 +44,7 @@
 
 ![Oscar’ github stats](https://github-readme-stats.vercel.app/api?username=Oscar-Santos&show_icons=true&theme=tokyonight)
 
-## Likes To
+## Likes To...🟣
 - play the guitar 
 - hiking
 - play chess
@@ -53,7 +53,7 @@
 - make stuff
 - do stuff
 
-## Find Me!
+## Find Me...!🟣
 [![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/oscar-santos-perez/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:oscar303data@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
