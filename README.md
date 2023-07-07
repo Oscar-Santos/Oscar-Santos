@@ -5,20 +5,20 @@
 
 
 # Hi, I'm Oscar !
-## I am...
+## I am...🟣
 - A Software Developer with a background in customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Graduate of the Turing School of Software and Design's Back-End program in __September of 2022__, and the Per Scholas Programming School's Front-End program in __July of 2023__.
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
-## Currently Learning
+## Currently Learning...🟣
 - Consuming, Building & Exposing APIs.
 - Continuous Integration / Continuous Deployment.
 - Python.
 - JavaScript, React, Node.js, Express, HTML and CSS.
 - Learning how to implement OpenAI / CHATgpt in a JAVASCRIPT and Ruby on Rails Application.
 
-## Best At
+## Best At...🟣
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
 ![Rails](https://user-images.githubusercontent.com/64919819/113647936-ffe5e400-9648-11eb-88b7-a85a0a20ca92.png)
 ![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
