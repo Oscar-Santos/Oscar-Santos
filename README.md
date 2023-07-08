@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/AkYTZM1DDFQAAAAd/wailord-pokemon.gif" width="700"/>
+  <img src="https://media.tenor.com/AkYTZM1DDFQAAAAd/wailord-pokemon.gif" width="700" height="200"/>
 </div>
 
 
