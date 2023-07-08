@@ -56,6 +56,8 @@
 ## Find Me...🟢
 [![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/oscar-santos-perez/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:oscar303data@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Project](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/oscar-santos-perez/)
+
 
 
 
