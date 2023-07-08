@@ -8,14 +8,14 @@
 ## I am...🟢
 - A Software Developer with a background in customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
-- Graduate of the [__Turing School of Software and Design__](https://turing.edu/)'s Back-End program in __September of 2022__, and the [__Per Scholas Programming School__](https://perscholas.org/courses/software-engineer/software-engineer/)'s Front-End program in __July of 2023__.
+- Graduate of the [__Turing School of Software and Design__](https://turing.edu/)'s Back-End Software Engineer program in __September of 2022__, and the [__Per Scholas Programming School__](https://perscholas.org/courses/software-engineer/software-engineer/)'s Front-End Software Engineer program in __July of 2023__.
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
 ## Currently Learning...🟢
 - Continuous Integration / Continuous Deployment.
 - Python.
 - JavaScript, React, Node.js, Express, HTML and CSS.
-- Learning how to implement OpenAI / CHATgpt in a JAVASCRIPT and Ruby on Rails Application.
+- Learning how to imtegrate OpenAI / CHATgpt in a JavaScript and Ruby on Rails Applications.
 
 ## Best At...🟢
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
