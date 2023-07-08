@@ -6,7 +6,7 @@
 
 # Hi, I'm Oscar !
 ## I am...🟢
-- A Software Developer with a background in customer service and sales.
+- A Software Developer with a background in management, customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Graduate of the [__Turing School of Software and Design__](https://turing.edu/)'s Back-End Software Engineer program in __September of 2022__, and the [__Per Scholas Programming School__](https://perscholas.org/courses/software-engineer/software-engineer/)'s Front-End Software Engineer program in __July of 2023__.
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
