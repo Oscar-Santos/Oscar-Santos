@@ -8,14 +8,14 @@
 ## I am...🟢
 - A Software Developer with a background in management, customer service and sales.
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
-- Graduate of the [__Turing School of Software and Design__](https://turing.edu/)'s Back-End Software Engineer program in __September of 2022__, and the [__Per Scholas Programming School__](https://perscholas.org/courses/software-engineer/software-engineer/)'s Front-End Software Engineer program in __July of 2023__.
+- Graduate of the [__Turing School of Software and Design__](https://turing.edu/)'s Back-End Software Engineer program in __September of 2022__, and the [__Per Scholas Programming School__](https://perscholas.org/courses/software-engineer/software-engineer/)'s Front-End Software Engineer program in __September of 2023__.
 - Currently in pursuit of a position that supports my ongoing growth in my programming skills.
 
 ## Currently Learning...🟢
 - Continuous Integration / Continuous Deployment.
 - Python.
-- JavaScript, React, Node.js, Express, HTML and CSS.
-- Learning how to imtegrate OpenAI / CHATgpt in a JavaScript and Ruby on Rails Applications.
+- Tailwind, Cypress.
+- Learning how to imtegrate OpenAI Api's in JavaScript and Ruby on Rails Applications.
 
 ## Best At...🟢
 ![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
@@ -29,6 +29,9 @@
 ![Git](https://user-images.githubusercontent.com/64919819/113648232-81d60d00-9649-11eb-8ea4-0ff5e399afb6.png)
 ![Github](https://user-images.githubusercontent.com/64919819/113648263-8ef2fc00-9649-11eb-92ee-e17ac79c0627.png)
 ![Heroku](https://user-images.githubusercontent.com/64919819/113648465-e1ccb380-9649-11eb-904d-3e23e9f7bdb1.png)
+[![OpenAI](https://img.shields.io/badge/OpenAI-Project-blue.svg)](https://github.com/openai/project-repository)
+[![GitHub Copilot Status](https://github.com/your-username/your-repository/workflows/GitHub%20Copilot/badge.svg)](https://github.com/your-username/your-repository/actions/workflows/copilot.yml)
+
 
 <!-- ## Im learning:
 
