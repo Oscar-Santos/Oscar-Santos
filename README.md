@@ -28,9 +28,8 @@
 ![CSS](https://user-images.githubusercontent.com/64919819/113647974-15f3a480-9649-11eb-90a6-0e5716a2f6a5.png)
 ![Git](https://user-images.githubusercontent.com/64919819/113648232-81d60d00-9649-11eb-8ea4-0ff5e399afb6.png)
 ![Github](https://user-images.githubusercontent.com/64919819/113648263-8ef2fc00-9649-11eb-92ee-e17ac79c0627.png)
-![Heroku](https://user-images.githubusercontent.com/64919819/113648465-e1ccb380-9649-11eb-904d-3e23e9f7bdb1.png)
-[![OpenAI](https://img.shields.io/badge/OpenAI-Project-blue.svg)](https://github.com/openai/project-repository)
-[![GitHub Copilot Status](https://github.com/your-username/your-repository/workflows/GitHub%20Copilot/badge.svg)](https://github.com/your-username/your-repository/actions/workflows/copilot.yml)
+
+
 
 
 <!-- ## Im learning:
