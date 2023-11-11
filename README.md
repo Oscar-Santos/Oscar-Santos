@@ -64,7 +64,7 @@
 [Vercel Link](https://oscars-portfolio.vercel.app/)
 
 
-<a href="https://oscars-portfolio.vercel.app/" target="_blank">Vercel Link</a>
+[Vercel Link](https://oscars-portfolio.vercel.app/ "target=_blank")
 
 
 
