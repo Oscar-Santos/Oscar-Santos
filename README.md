@@ -1,11 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/AkYTZM1DDFQAAAAd/wailord-pokemon.gif" width="700" height="400"/>
   
   <img src="https://i.pinimg.com/originals/08/c0/ac/08c0acc85ee37b6807a600045201d323.gif" width="700" height="400"/>
-
-  
-  
-
 
 </div>
 
